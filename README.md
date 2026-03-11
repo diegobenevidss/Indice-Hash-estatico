@@ -10,7 +10,7 @@ O simulador organiza um conjunto de dados (palavras) em **Páginas** e constrói
 
 
 
-### 🛠️ Funcionalidades Principais
+## 🛠️ Funcionalidades Principais
 
 * **Configuração de Armazenamento:** Ajuste o tamanho das páginas e o fator de preenchimento (FR) dos buckets.
 * **Algoritmo de Hashing (DJB2):** Utiliza uma função hash robusta para garantir uma distribuição uniforme das chaves.
