@@ -35,7 +35,7 @@ O simulador organiza um conjunto de dados (palavras) em **Páginas** e constrói
 2.  **Prepare os dados:** Certifique-se de ter um arquivo chamado `words.txt` na mesma pasta.
 3.  **Execute o simulador:**
     ```bash
-    python seu_arquivo.py
+    python main.py
     ```
 4.  **Configure os parâmetros:**
     * *Tamanho da Página:* Quantas palavras cabem em cada bloco de dados.
